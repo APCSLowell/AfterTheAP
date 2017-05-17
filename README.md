@@ -21,5 +21,5 @@ After the AP Exam you are expected to use your class time productively. If you h
 + Learn [data visualizations](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)   
 + Use a Makey Makey
 + Program a Parallax Arduino robot. The Parallax robots have an [excellent and easy to follow guide]  (https://www.parallax.com/downloads/board-education-shield-arduino-product-guide)
-+ The [Tinkercad tutorials](https://www.tinkercad.com/quests/) are self-guided and you could print your project on the 3d printer
++ The [Tinkercad tutorials](https://www.tinkercad.com/quests/) are self-guided and you could print your project on the 3d printer   
 You are not limited to these suggestions. Choose a project that will engage you, have fun and be creative!
