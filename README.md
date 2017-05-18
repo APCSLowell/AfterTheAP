@@ -7,8 +7,12 @@ After the AP Exam you are expected to use your class time productively. If you h
 + Learn [Python on the Code Academy](https://www.codecademy.com/learn/python) and/or [codingbat](http://codingbat.com/python)
 + Watch a [video to learn how to build a CAT5 or CAT6 cable](https://www.youtube.com/watch?v=lullzS740wI), then build your own
 + Read [XKCD](https://xkcd.com/) cartoons
-+ Taking AP Java next year? Take a free online Java course: [Think Java online interactive Java course](https://books.trinket.io/thinkjava/), [Codecademy Java course](https://www.codecademy.com/learn/learn-java), [SJSU intro to Java programming](https://www.udacity.com/course/intro-to-java-programming--cs046)
-+ Learn to code music in Ruby with Sonic Pi and this [free eBook](https://www.raspberrypi.org/magpi/issues/essentials-sonic-pi-v1/)
+Write computer programs to solve math problems at [Project Euler](https://projecteuler.net/)
++ Learn more Java with e a free online Java: 
+    + [Think Java online interactive Java course](https://books.trinket.io/thinkjava/)
+    + [Codecademy Java course](https://www.codecademy.com/learn/learn-java)
+    + [SJSU intro to Java programming](https://www.udacity.com/course/intro-to-java-programming--cs046)
++ Learn to code music in Ruby with Sonic Pi with this [free eBook](https://www.raspberrypi.org/magpi/issues/essentials-sonic-pi-v1/)
 + Write computer programs to solve math problems at Project Euler
 + Learn [version control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 + Learn [how to use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)   
@@ -20,6 +24,7 @@ After the AP Exam you are expected to use your class time productively. If you h
 + [Make your own 2048 game](https://www.udacity.com/course/make-your-own-2048--ud248)   
 + Learn [data visualizations](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)   
 + Use a [Makey Makey](http://makeymakey.com/how-to/classic/)   
-+ Program a Parallax Arduino robot. The Parallax robots have an [excellent and easy to follow guide]  (https://www.parallax.com/downloads/board-education-shield-arduino-product-guide)
++ Program a Parallax Arduino robot. The Parallax robots have an [excellent and easy to follow guide](https://www.parallax.com/downloads/board-education-shield-arduino-product-guide)
 + The [Tinkercad tutorials](https://www.tinkercad.com/quests/) are self-guided and you could print your project on the 3d printer   
+
 You are not limited to these suggestions. Choose a project that will engage you, have fun and be creative!
