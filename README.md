@@ -2,6 +2,7 @@ After The AP Exam
 =================
 
 After the AP Exam you are expected to use your class time productively. If you have any unfinished assignments you should finish those first. If you've completed all your assignments you are welcome to choose how you use your time as long as you are working on something related to computer science. You are welcome to work by yourself or with a partner. Here are some suggestions:
++ Form a team of up to 4 students and compete in the [HSCTF hacking competition](https://hsctf.com/)
 + Create a [username.github.io respository](https://pages.github.com/) with your main web page  for your GitHub website
 + Learn about making websites at [Code Academy's html and css course](https://www.codecademy.com/learn/web)
 + Learn [Python on the Code Academy](https://www.codecademy.com/learn/python) and/or [codingbat](http://codingbat.com/python)
