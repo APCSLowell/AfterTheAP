@@ -7,6 +7,7 @@ After the AP Exam you are expected to use your class time productively. If you h
 + Learn about making websites at [Code Academy's html and css course](https://www.codecademy.com/learn/web)
 + Learn [Python on the Code Academy](https://www.codecademy.com/learn/python) and/or [codingbat](http://codingbat.com/python)
 + Watch a [video to learn how to build a CAT5 or CAT6 cable](https://www.youtube.com/watch?v=lullzS740wI), then build your own
++ Build your coding skills at [codingame.com](https://www.codingame.com/start)
 + Read [XKCD](https://xkcd.com/) cartoons
 + Write computer programs to solve math problems at [Project Euler](https://projecteuler.net/)
 + Learn more Java: 
