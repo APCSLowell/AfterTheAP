@@ -6,6 +6,7 @@ After the AP Exam you are expected to use your class time productively. If you h
 + Create a [username.github.io respository](https://pages.github.com/) with your main web page  for your GitHub website
 + Learn about making websites at [Code Academy's html and css course](https://www.codecademy.com/learn/web)
 + Learn [Python on the Code Academy](https://www.codecademy.com/learn/python) and/or [codingbat](http://codingbat.com/python)
++ Learn about data science in Python at [Data Camp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 + Watch a [video to learn how to build a CAT5 or CAT6 cable](https://www.youtube.com/watch?v=lullzS740wI), then build your own
 + Build your coding skills at [codingame.com](https://www.codingame.com/start)
 + Read [XKCD](https://xkcd.com/) cartoons
