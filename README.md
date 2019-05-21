@@ -2,7 +2,7 @@ After The AP Exam
 =================
 
 After the AP Exam you are expected to use your class time productively. If you have any unfinished assignments you should finish those first. If you've completed all your assignments you are welcome to choose how you use your time as long as you are working on something related to computer science. You are welcome to work by yourself or with a partner. Here are some suggestions:
-+ Form a team of up to 4 students and compete in the [HSCTF hacking competition](https://hsctf.com/)
++ Review the [2019 FRQ questions](https://apstudents.collegeboard.org/sites/default/files/2019-05/ap19-frq-computer-science-a.pdf) and [solutions](http://www.skylit.com/beprepared/fr2019.html)
 + Create a [username.github.io respository](https://pages.github.com/) with your main web page  for your GitHub website
 + Learn about making websites at [Code Academy's html and css course](https://www.codecademy.com/learn/web)
 + [Install and configure Atom](https://github.com/APCSLowell/AtomConfigWindows/blob/master/README.md) and use it's [teletype](https://teletype.atom.io/) feature to write a Processing program with other people in real time 
