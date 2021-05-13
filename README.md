@@ -13,7 +13,7 @@ After the AP Exam you are expected to use your class time productively. If you h
 + Watch a [video to learn how to build a CAT5 or CAT6 cable](https://www.youtube.com/watch?v=lullzS740wI), then build your own
 + Build your coding skills at [codingame.com](https://www.codingame.com/start)
 + Read [XKCD](https://xkcd.com/) cartoons
-+ Play *Keep Talking and Nobody Explodes*
++ Play [*Keep Talking and Nobody Explodes*](https://keeptalkinggame.com)
 + Write computer programs to solve math problems at [Project Euler](https://projecteuler.net/)
 + Learn more Java: 
     + [Think Java online interactive Java course](https://books.trinket.io/thinkjava/)
